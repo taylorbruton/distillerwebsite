@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+
+section, div {
+	border: 1px solid gray;
+}
+
+header {
+  display: flex;
+}
